@@ -6,8 +6,8 @@ const passwordInput=document.getElementById("passwordInput");
 
 
 
-submitButton.addEventListener('click',emailInput);
-submitButton.addEventListener('click',passwordInput);
+// submitButton.addEventListener('click',emailInput);
+// submitButton.addEventListener('click',passwordInput);
 //addeventlistener fel onclick bt3ha,
 btn = document.getElementById('btn');
 
