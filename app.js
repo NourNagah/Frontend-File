@@ -13,7 +13,7 @@ btn = document.getElementById('btn');
 
 btn.addEventListener('click',async()=>{
     console.log("hello")
-    const response = await fetch("http://localhost:3000/login", {
+    const response = await fetch("https://darderaz.onrender.com/login", {
     method: 'POST',
     headers: {
       'Accept': 'application/json',
